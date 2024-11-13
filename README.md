@@ -9,6 +9,7 @@ This is my very first personal website and I will use it as a place to share my 
 To build this website I'm using Jekyll, a static site generator, and the Cayman theme. I'm also using GitHub Pages to host it.
 
 I mainly used the following official resources:
+
 - [Jekyll documentation](https://jekyllrb.com/docs/)
 - [GitHub Pages documentation](https://docs.github.com/en/pages)
 
