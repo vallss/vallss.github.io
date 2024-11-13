@@ -1,5 +1,13 @@
 ---
 layout: default
+title: Valeria Salis
+description: >- # this means to ignore newlines until "baseurl:"
+  Software developer, public speaker and meetup organizer.  I like talking to computers as much as I like talking to people.
+children:
+  - title: Blog
+    url: blog
+  - title: Talks and slides
+    url: talks-and-slides
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
