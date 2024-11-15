@@ -2,7 +2,7 @@
 layout: default
 title: Valeria Salis
 description: >- # this means to ignore newlines until "baseurl:"
-  Software developer, public speaker and meetup organizer.  I like talking to computers as much as I like talking to people.
+  Software developer, public speaker and meetup organizer.  I like talking to computers as much as I like talking to people (and cats).
 children:
   - title: Blog
     url: blog
