@@ -22,7 +22,7 @@ If you already have Ruby and Jekyll installed on your computer, you can clone th
 Even though a lot of documentation is available online, I recommend to take in consideration mainly the following commands:
 
 - `bundle exec jekyll serve` to run the website locally
-- `bundle info jekyll-theme-cayman` to get information about the Cayman theme (mainly the path where it is installed so you can copy the layouts and styles)
+- `bundle info minimal-mistakes-jekyll` to get information about the Minimal mistakes theme (mainly the path where it is installed so you can copy the layouts and styles)
 - `bundle install` to install the gems specified in the Gemfile
 - `bundle update` to update the gems specified in the Gemfile
 - `gem install <name_theme>` to install a new theme
