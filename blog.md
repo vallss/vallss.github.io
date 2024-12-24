@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
 layout: posts
-title: "About"
+title: "Blog posts"
 author_profile: true
 ---
