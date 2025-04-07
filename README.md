@@ -6,7 +6,7 @@ I'm Valeria and I'm a software developer, public speaker and meetup organizer.
 
 This is my very first personal website and I will use it as a place to share my projects, recordings of my talks and slides and so on.
 
-To build this website I'm using Jekyll, a static site generator, and the Cayman theme. I'm also using GitHub Pages to host it.
+To build this website I'm using Jekyll, a static site generator, and the minimal-mistakes-jekyll theme. I'm also using GitHub Pages to host it.
 
 I mainly used the following official resources:
 
