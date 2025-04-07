@@ -1,6 +1,8 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Talks & Slides"
+    url: /talks-and-slides/
   # - title: "Posts"
   #   url: /year-archive/
   # - title: "Categories"

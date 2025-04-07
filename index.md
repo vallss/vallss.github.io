@@ -21,4 +21,6 @@ Although being an introvert, in 2022 I discovered a passion for public speaking 
 
 I'm proudly part of the **CNCF TAG Environmental Sustainability** and Technical Lead for the WG Sustainability Advocacy.
 
+I'm also one of the co-founders of **Green Software Italia**, a community that aims to raise awareness about sustainability, accessibility and inclusion in the tech world.
+
 ![Bonus: my cat](/assets/images/me_and_my_cat.webp)
